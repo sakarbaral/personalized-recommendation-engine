@@ -1,0 +1,4 @@
+services/python/venv
+*.yaml
+*.DS_Store
+services/python/.DS_Store
